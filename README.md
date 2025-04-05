@@ -1,6 +1,4 @@
-**End-to-End Data Science Project Process Map**:
 
----
 
 ## 🔄 **Process Map for End-to-End Data Science Projects**
 
